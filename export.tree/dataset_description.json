@@ -1,0 +1,19 @@
+{
+    "Name": "Brain Connectivity Based on EEG of Student Learning Processes Using Gen-AI",
+    "BIDSVersion": "1.7.0",
+    "License": "CC0",
+    "Authors": [
+        ""
+    ],
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "HEDVersion": "8.1.0",
+    "GeneratedBy": [
+        {
+            "Name": "EEG-BIDS",
+            "Version": "10.5"
+        }
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds008496.v1.0.1"
+}

@@ -1,0 +1,94 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Achmad Imam Kistijantoro
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_0
+          - nameIdentifier: https://orcid.org/0000-0003-2065-6675
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 1
+      - name: Lianna G. H. Margareta
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Haura R. Haminullah
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: Qurotul Uyun
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+      - name: Fani Eka Nurtjahjo
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
+      - name: Iwan Kustiawan
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 6
+      - name: Didin Wahyudin
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 7
+      - name: Nur Ahmadi
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 8
+      - name: Ayu Purwarianti
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 9
+    creators:
+      - name: Achmad Imam Kistijantoro
+        nameType: Personal
+        nameIdentifiers: *ref_0
+      - name: Lianna G. H. Margareta
+        nameType: Personal
+      - name: Haura R. Haminullah
+        nameType: Personal
+      - name: Qurotul Uyun
+        nameType: Personal
+      - name: Fani Eka Nurtjahjo
+        nameType: Personal
+      - name: Iwan Kustiawan
+        nameType: Personal
+      - name: Didin Wahyudin
+        nameType: Personal
+      - name: Nur Ahmadi
+        nameType: Personal
+      - name: Ayu Purwarianti
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract
