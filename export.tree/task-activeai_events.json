@@ -1,0 +1,39 @@
+{
+  "onset": {
+    "Description": "Onset of the event in seconds from recording start",
+    "Units": "s"
+  },
+  "duration": {
+    "Description": "Duration of the event in seconds",
+    "Units": "s"
+  },
+  "sample": {
+    "Description": "Onset of the event in samples"
+  },
+  "value": {
+    "Description": "Numeric value of the marker as recorded by Emotiv EmotivPRO"
+  },
+  "type": {
+    "Description": "Event marker type recorded via Emotiv EmotivPRO",
+    "Levels": {
+      "Eyes Opened": "Baseline eyes open period",
+      "Eyes Closed": "Baseline eyes closed period",
+      "tanpa AI": "Task condition without AI assistance",
+      "dengan AI": "Task condition with AI assistance",
+      "tambahan": "Additional marker",
+      "fase": "Phase transition marker"
+    }
+  },
+  "marker_value": {
+    "Description": "Numeric value of the marker as assigned in EmotivPRO"
+  },
+  "key": {
+    "Description": "Keystroke or port source of the marker"
+  },
+  "timestamp": {
+    "Description": "Absolute datetime timestamp of the event in ISO 8601 format"
+  },
+  "marker_id": {
+    "Description": "Sequential index of the marker within the recording session"
+  }
+}

@@ -1,0 +1,27 @@
+{
+    "Name": "EEG RKI",
+    "BIDSVersion": "1.7.0",
+    "License": "CC0",
+    "Authors": [
+        "Achmad Imam Kistijantoro",
+        "Lianna G. H. Margareta",
+        "Haura R. Haminullah",
+        "Qurotul Uyun",
+        "Fani Eka Nurtjahjo",
+        "Iwan Kustiawan",
+        "Didin Wahyudin",
+        "Nur Ahmadi",
+        "Ayu Purwarianti"
+    ],
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "HEDVersion": "8.1.0",
+    "GeneratedBy": [
+        {
+            "Name": "EEG-BIDS",
+            "Version": "10.5"
+        }
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds008496.v1.0.3"
+}

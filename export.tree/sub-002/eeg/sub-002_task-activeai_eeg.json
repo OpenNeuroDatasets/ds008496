@@ -1,0 +1,14 @@
+{
+  "PowerLineFrequency": 50,
+  "EEGReference": "CMS/DRL",
+  "EEGGround": "DRL",
+  "Manufacturer": "Emotiv",
+  "ManufacturersModelName": "EPOC X",
+  "EEGChannelCount": 14,
+  "SamplingFrequency": 256,
+  "SoftwareFilters": "n/a",
+  "TaskName": "activeai",
+  "MiscChannelCount": 46,
+  "RecordingType": "continuous",
+  "RecordingDuration": 2501
+}
